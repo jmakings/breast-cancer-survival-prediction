@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Conda / Pixi / venv
+env/
+bc_survival/
+*.env
+*.venv
+*.pixi/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Mac OS
+.DS_Store
+

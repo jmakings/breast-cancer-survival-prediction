@@ -1,0 +1,16 @@
+name: bc_survival
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - numpy
+  - jupyterlab
+  - scipy
+  - scikit-learn
+  - seaborn
+  - matplotlib
+  - pandas
+  - torchvision
+  - pytorch
+  - torchaudio
+prefix: /Users/jmakings/miniconda3/envs/bc_survival
