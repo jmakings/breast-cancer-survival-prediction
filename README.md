@@ -2,4 +2,4 @@
 
 Breast Cancer Survival Prediction from METABRIC dataset. 
 
-Core question: Can we improve survivial prediction in breast cancer patients by integrating both clinical metadata and bulk RNA-sequencing data? 
+Core question: Can we improve survivial prediction in breast cancer patients by integrating both clinical metadata, patient-level microarray data, and mutation information? 
