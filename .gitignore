@@ -17,3 +17,5 @@ bc_survival/
 # Mac OS
 .DS_Store
 
+# Scratch Files
+scratch/
