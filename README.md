@@ -2,7 +2,7 @@
 
 A comparison of classical and deep learning approaches to survival risk prediction using the METABRIC dataset. The project implements a Cox proportional hazards model and a hybrid deep learning architecture, evaluated on a held-out validation set using the concordance index and Kaplan-Meier risk group stratification.
 
-### Model Setup and Current Rolling Results are available in "Multi-Modal Breast Cancer Survival Analysis.pptx"
+### Model Setup and Current Rolling Results are available in *"Multi-Modal Breast Cancer Survival Analysis.pptx"*
 ---
 
 ## Overview
@@ -105,7 +105,7 @@ Models are evaluated on a held-out validation set using:
 | Cox proportional hazards | *0.70* |
 | Deep learning (hybrid) | *0.72* |
 
-Kaplan-Meier curves for both models are available in the respective notebooks.
+Kaplan-Meier curves for both models are available in pptx with description
 
 ---
 
