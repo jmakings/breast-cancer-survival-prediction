@@ -103,7 +103,7 @@ Models are evaluated on a held-out validation set using:
 | Model | Validation C-index |
 |---|---|
 | Cox proportional hazards | *0.70* |
-| Deep learning (hybrid) | *0.72* |
+| Deep learning (hybrid) | *0.66* |
 
 Kaplan-Meier curves for both models are available in pptx with description
 
@@ -156,7 +156,6 @@ Start with the preprocessing notebook in either `notebooks/cox_modeling.ipynb` o
 ## Next Steps
 
 - [ ] External validation on an independent cohort (TCGA BRCA)
-- [ ] Refactor notebooks into reusable Python modules
 - [ ] Model deployment as a lightweight inference API
 
 ---
